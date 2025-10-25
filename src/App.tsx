@@ -15,7 +15,7 @@ function App() {
         }}
       >
         <Box>
-          <Heading>dApp Starter Template</Heading>
+          <Heading>dApp Starter Template hi</Heading>
         </Box>
 
         <Box>
